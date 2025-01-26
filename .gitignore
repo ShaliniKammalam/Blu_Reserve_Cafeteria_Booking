@@ -1,0 +1,6 @@
+__pycache__
+users.db*
+cafeteria_seats.db
+
+.vscode
+DS_Store
